@@ -1,10 +1,77 @@
 ---
-layout: default
+
+layout: home
+author_profile: true
+classes: wide
+
 ---
 
- **Hi there! This site is still under contruction**
+<style>
+
+* {
+    box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+}
+
+.left {
+  width: 70%;
+}
+
+.right {
+  width: 30%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.grid-item {
+  background-color: #ffffff;
+  border: 0px solid #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
 
-# Hello World
-My first post
+</style>
+
+<body>
+
+<div class="row">
+  <div class="column left">
+    <p align="justify">RThis is under construction.<br>:</p>
+	<div class="grid-container">
+
+    </div>
+  </div>
+  <div class="column right">
+        <div class="jekyll-twitter-plugin" align="center">
+			<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/sibakmoussa?ref_src=twsrc%5Etfw">Tweets by sibakmoussa</a></div>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br clear="all" />
+  </div>
+		</div>
+	
+</div>
+
+</body>
 
