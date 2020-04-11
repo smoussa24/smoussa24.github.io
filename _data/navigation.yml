@@ -1,0 +1,13 @@
+  
+# main links
+main:
+  - title: "Research"
+    url: /Research/
+  - title: "Publications"
+    url: /Publications/
+  - title: "Blog"
+    url: /blog/index.html
+  - title: "CV"
+    url: /CV/ 
+  - title: "Contact"
+    url: mailto:sibakmoussa@gmail.com
