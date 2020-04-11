@@ -31,7 +31,7 @@ include:
  
 author:
   name     : "Siba Moussa "
-  avatar   : "blob/master/Header.jpg"
+  avatar   :  "/Bio.jpg"
   bio      : "PhD Candidate Developing Electrochemical Sensors"
   location : "McGill University"
   links:
