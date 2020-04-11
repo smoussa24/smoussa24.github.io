@@ -28,7 +28,7 @@ plugins:
 include:
   - _pages
   - _posts
-
+ 
 author:
   name     : "Siba Mousa "
   avatar   : "/images/bio_photo.jpg"
