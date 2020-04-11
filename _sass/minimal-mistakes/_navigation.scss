@@ -94,7 +94,7 @@
 
       &.current,
       &.current.disabled {
-        color: #fafafa;
+        color: #fff;
         background: $primary-color;
       }
 
@@ -205,7 +205,7 @@
     height: $nav-toggle-height;
     border: 0;
     outline: none;
-    color: #fafafa;
+    color: #fff;
     background-color: $primary-color;
     cursor: pointer;
   }
