@@ -30,8 +30,8 @@ include:
   - _posts
  
 author:
-  name     : "Siba Mousa "
-  avatar   : "/images/bio_photo.jpg"
+  name     : "Siba Moussa "
+  avatar   : "blob/master/Header.jpg"
   bio      : "PhD Candidate Developing Electrochemical Sensors"
   location : "McGill University"
   links:
