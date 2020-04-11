@@ -1,3 +1,82 @@
-theme: jekyll-theme-minimal
-title: A Grad Student's Blog
-description: [ Grad Student @ McGill U]
+
+title: Graduate Student Blog
+email: sibakmoussa@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+ PhD Student at McGill University
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sibamoussa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sibakmoussa
+github_username:  sibamoussa
+
+# Build settings
+markdown: kramdown
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-twitter-plugin
+  - jekyll-include-cache
+  - jekyll-paginate
+  
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+
+
+# Reading Files
+include:
+  - _pages
+  - _posts
+
+author:
+  name     : "Siba Mousa "
+  avatar   : "/images/bio_photo.jpg"
+  bio      : "PhD Canditate Developing Electrochemical Sensors"
+  location : "McGill University"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sibakmoussa"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate" 
+      url: "https://researchgate.net/profile/Siba_Moussa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com//in/sibamoussa"
+     
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: true
+      comments: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
+footer:
+ 
+
+repository: sibamoussa/sibamoussa.github.io
+
+
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+
+comments:
+    provider: "disqus"
+    disqus:
+        shortname: "https-sibamoussa-github-io"
