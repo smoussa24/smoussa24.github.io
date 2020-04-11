@@ -68,7 +68,10 @@ defaults:
       share: true
       
 footer:
- 
+ links: 
+ - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com//in/sibamoussa"
 
 repository: sibamoussa/sibamoussa.github.io
 
