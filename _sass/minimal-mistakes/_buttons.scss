@@ -16,7 +16,7 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  border-width: 0;
+  border-width: 1;
   border-radius: $border-radius;
   cursor: pointer;
 
@@ -31,7 +31,7 @@
   /* button colors */
   $buttoncolors:
   (primary, $primary-color),
-  (inverse, #fff),
+  (inverse, #5ab9ea),
   (light-outline, transparent),
   (success, $success-color),
   (warning, $warning-color),
@@ -39,9 +39,7 @@
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (google-plus, #DD4B39),
   (linkedin, $linkedin-color),
-  (reddit, #ff4500);
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {
@@ -84,16 +82,16 @@
 
   /* extra large button */
   &--x-large {
-    font-size: $type-size-4;
+    font-size: $type-size-12;
   }
 
   /* large button */
   &--large {
-    font-size: $type-size-5;
+    font-size: $type-size-10;
   }
 
   /* small button */
   &--small {
-    font-size: $type-size-7;
+    font-size: $type-size-8;
   }
 }
