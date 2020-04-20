@@ -2,7 +2,7 @@
 # main links
 main:
   - title: "Blog"
-    url: /blog/index.html
+    url: /blog/
   - title: "Research"
     url: /Research/
   - title: "CV"
