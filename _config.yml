@@ -51,7 +51,7 @@ include:
 
 author:
   name     : "Siba Moussa"
-  avatar   : "/images/bio.jpg"
+  avatar   : "/Bio.jpg"
   bio      : "PhD Student"
   location : "McGill University"
   links:
