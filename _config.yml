@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
@@ -12,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Researcher
+title: Electrochemist
 email: sibakmoussa@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Student at McGill University
@@ -47,13 +48,13 @@ plugins:
 # Reading Files
 include:
   - _pages
-  - _blog
+  - _posts
 
 author:
-  name     : "Siba Moussa"
+  name     : "Samuel Perry <small>PhD FHEA</small>"
   avatar   : "/Bio.jpg"
-  bio      : "PhD Student"
-  location : "McGill University"
+  bio      : "PhD Student at McGill University"
+  location : "Montreal, Quebec"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -92,6 +93,7 @@ footer:
     - label: "Research Gate"
       icon: "fab fa-researchgate" 
       url: "https://reserachgate.net/profile/Siba_Moussa"
+
 
 repository: sibamoussa/sibamoussa.github.io
 
