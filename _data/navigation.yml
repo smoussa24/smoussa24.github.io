@@ -1,10 +1,14 @@
 # main links
 main:
-  - title: "Blog"
-    url: /Blog/
   - title: "Research"
     url: /Research/
+  - title: "Publications"
+    url: /Publications/
+  - title: "BIPortfolio"
+    url: /BIPortfolio/
   - title: "CV"
     url: /CV/
+  - title: "Posts"
+    url: /blog/index.html   
   - title: "Contact"
     url: mailto:sibakmoussa@gmail.com
