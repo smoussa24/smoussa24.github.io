@@ -95,6 +95,9 @@ footer:
     - label: "Research Gate"
       icon: "fab fa-researchgate" 
       url: "https://reserachgate.net/profile/Siba_Moussa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/siba-moussa-a4a41684"
 
 
 repository: sibamoussa/sibamoussa.github.io
