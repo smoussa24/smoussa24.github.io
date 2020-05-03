@@ -11,3 +11,4 @@ categories:
 ---
 
 Read my blog on introduction to data and statistics
+https://medium.com/@sibakmoussa/5-min-intro-to-data-stats-330ffbee8b41
