@@ -18,10 +18,10 @@
   text-decoration: underline;
   border-width: thick;
   border-radius: $border-radius;
-  cursor: progress;
+  cursor: pointer;
 
   .icon {
-    margin-right: 0.5em;
+    margin-right: 1em;
   }
 
   .icon + .hidden {
