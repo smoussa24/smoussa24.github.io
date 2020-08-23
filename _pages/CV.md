@@ -3,4 +3,5 @@ title: "CV"
 permalink: /CV/
 header:
 ---
-[Click to view CV](http://sibamoussa.github.io/images/Siba Moussa_CVFinal.pdf)
+<embed src="http://sibamoussa.github.io/images/Siba Moussa_CVFinal.pdf" width="500" height="375" 
+ type="application/pdf">
