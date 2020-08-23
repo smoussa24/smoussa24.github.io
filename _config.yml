@@ -48,9 +48,9 @@ plugins:
 #   - vendor/ruby/
 
 # Reading Files
-include:
-  - _pages
-  - _posts
+#include:
+#  - _pages
+#  - _posts
 
 author:
   name     : "Siba Moussa"
