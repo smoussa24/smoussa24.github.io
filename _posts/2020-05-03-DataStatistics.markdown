@@ -8,6 +8,9 @@ categories:
   - datascience
   - data
   - statistics
+header:
+  teaser: " /images/header2.jpg"
+
 ---
 
 Read my blog on introduction to data and statistics
