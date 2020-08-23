@@ -8,6 +8,8 @@ main:
     url: /STEMOutreach/
   - title: "BIPortfolio"
     url: /BIPortfolio/
+  - title: "Fun with Python"
+    url: /Pythonfun/
   - title: "CV"
     url: /CV/  
   - title: "Contact"
