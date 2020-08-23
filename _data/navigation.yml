@@ -4,6 +4,8 @@ main:
     url: /blog/index.html  
   - title: "Research"
     url: /Research/
+  - title: " STEM Outreach"
+    url: /STEMOutreach/
   - title: "BIPortfolio"
     url: /BIPortfolio/
   - title: "CV"
