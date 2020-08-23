@@ -106,7 +106,7 @@ repository: sibamoussa/sibamoussa.github.io
 
 
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num
 
 
 comments:
