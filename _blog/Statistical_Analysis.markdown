@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: search
 title:  "Statistical Analysis"
 date:   2020-04-19
 categories: 
