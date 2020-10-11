@@ -51,7 +51,6 @@ plugins:
 include:
   - _pages
   - _posts
-  - gallery id="gallery"
 
 
 author:
