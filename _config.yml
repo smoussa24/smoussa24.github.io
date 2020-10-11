@@ -89,6 +89,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+
 gallery:
   - image_path:  /images/book.jpg
     image_caption: "R & R Time"
