@@ -89,7 +89,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
-   
+gallery:
+  - image_path:  /images/book.jpg
+    image_caption: "R & R Time"
+  - image_path: /images/Aggie.jpg
+    image_caption: "Being a graduate student"
+  - image_path:  /images/nature.jpg
+    image_caption: "Retrospection"
+{% raw %}{% include gallery id="gallery" caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+
 footer:
   links:
     - label: "Twitter"
