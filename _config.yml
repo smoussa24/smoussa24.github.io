@@ -51,6 +51,8 @@ plugins:
 include:
   - _pages
   - _posts
+  - gallery id="gallery"
+
 
 author:
   name     : "Siba Moussa"
@@ -88,7 +90,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-{% include gallery id="gallery" %}
    
 footer:
   links:
