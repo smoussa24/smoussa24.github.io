@@ -2,8 +2,6 @@
 layout: single
 title:  "My name is Siba."
 date:   2020-10-11
-toc: true
-toc_label: "Contents"
 categories: 
   - welcome
   - introduction
