@@ -106,8 +106,7 @@ footer:
 
 repository: sibamoussa/sibamoussa.github.io
 
-
- paginate: 5 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /blog/page:num 
 
 
