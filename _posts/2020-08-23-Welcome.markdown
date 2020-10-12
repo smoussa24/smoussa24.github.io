@@ -1,12 +1,14 @@
 ---
 layout: single
-title:  "First Blog"
-date:   2020-04-11
+title:  "My name is Siba."
+date:   2020-10-11
 toc: true
 toc_label: "Contents"
 categories: 
   - welcome
-  - hello world
+  - introduction
 ---
 
-This is my first post
+Hi! I am Siba. Originally from Syria, I am a world-traveller who considers home to be many locations around our beautiful earth.
+
+Born and raised in AbuDhabi (United Arab Emirates), I moved to the Eastern Province in Saudi Arabia following my move to Canada in the early 2000's. I went to Texas A&M University at Qatar where I pursued my goals of obtaining a Chemical Engineering degree before I ended up in one of my favorite cities in Canada: Montreal! I am now working on my PhD in Chemistry from McGill University. 
