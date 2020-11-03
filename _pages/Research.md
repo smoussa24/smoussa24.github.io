@@ -1,14 +1,14 @@
 ---
 layout: single
 author_profile: true
-permalink: /Research/
+permalink: /Projects/
 classes: wide
 ---
 
 <p>
 </p>
 
-Research Themes
+Projects
 ====================
 
 <style>
