@@ -1,14 +1,14 @@
 ---
 layout: single
 author_profile: true
-permalink: /BIPortfolio/
+permalink: /Portfolio/
 classes: wide
 ---
 
 <p>
 </p>
 
-BI Portfolio
+Portfolio
 ====================
 
 <style>
