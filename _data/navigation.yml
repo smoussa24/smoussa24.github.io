@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /blog/index.html  
-  - title: "Research"
-    url: /Research/
+  - title: "Projects"
+    url: /Projects/
   - title: " STEM Outreach"
     url: /STEMOutreach/
-  - title: "BIPortfolio"
-    url: /BIPortfolio/
+  - title: "Portfolio"
+    url: /Portfolio/
   - title: "Fun with Python"
     url: /Pythonfun/
   - title: "CV"
