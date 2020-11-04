@@ -10,14 +10,16 @@ classes: wide
 
 Let's Code  
 ====================
+
 <ul>
   {% for post in site.categories.PythonFunCode %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+   {% endfor %}
 </ul>
+
 <style>
 
 .grid-container {
