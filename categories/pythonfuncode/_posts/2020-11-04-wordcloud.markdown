@@ -18,6 +18,6 @@ Python makes **word cloud generation** a **simple and quick** process.
 Let's go through all the steps to get that fancy word cloud for tomorrow's presentation.
 
 <ol>
-<li> 1) Download Python </li>
-<li> 2) If you do not want to use python, you can install anaconda to access Jupyter notebook</li>
+<li> Download Python </li>
+<li> If you do not want to use python, you can install anaconda to access Jupyter notebook</li>
 </ol>
