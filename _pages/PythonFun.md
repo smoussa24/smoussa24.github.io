@@ -12,7 +12,7 @@ Let's Code
 ====================
 
 <ul>
-  {% for post in site.categories.PythonFunCode %}
+  {% for post in site.categories.pythonfuncode %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt }}</p>
