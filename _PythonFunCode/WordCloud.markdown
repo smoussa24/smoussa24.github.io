@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title:  "Introduction to Data and Statistics"
