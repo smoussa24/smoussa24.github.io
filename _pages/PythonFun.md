@@ -11,7 +11,7 @@ classes: wide
 Let's Code  
 ====================
 <ul>
-  {% for post in site.PythonFun %}
+  {% for post in site._PythonFun %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
