@@ -20,4 +20,12 @@ Let's go through all the steps to get that fancy word cloud for tomorrow's prese
 <ol>
 <li> Download Python </li>
 <li> If you do not want to use python, you can install anaconda to access Jupyter notebook</li>
+<li> Open terminal through clicking on start -> type: cmd -> press enter</li>
+<li> Install required packages by typing into terminal the following: ``` py -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose pdfminer textblob```</li>
+<li> Create a folder through Jupyter Notebook where you would like to store all of your files Note: I prefer making it on my desktop</li>
+<li> Save a) the pdf of choice b) the python file (opened through Jupyter notebook) in that same folder</li>
+<li>Copy the code attached</li>
+<li>Save a mask image as a template for the wordcloud</li>
+<li>Run the code</li>
+<li>Voila!</li>
 </ol>
