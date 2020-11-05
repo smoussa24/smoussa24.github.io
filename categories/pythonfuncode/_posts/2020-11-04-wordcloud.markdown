@@ -29,3 +29,8 @@ Let's go through all the steps to get that fancy word cloud for tomorrow's prese
 <li>Run the code</li>
 <li>Voila!</li>
 </ol>
+
+``` 
+py -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose pdfminer textblob
+
+```
