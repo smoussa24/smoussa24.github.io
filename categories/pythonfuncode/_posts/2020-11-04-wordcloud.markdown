@@ -3,9 +3,9 @@ layout: single
 title:  "Generate a word cloud from a PDF file"
 date:   2020-11-04
 categories: 
-  - datascience
+  - images
   - data
-  - statistics
+  - pds
 header:
   teaser: " /images/biogas.jpeg"
 
@@ -14,6 +14,13 @@ header:
 Including visuals to emphasize an information and summarize a document is always nice, but not many of us can do this in a time efficient manner. 
 
 Python makes **word cloud generation** a **simple and quick** process. 
+
+<figure class="half">
+    <a href="/images/WordCloud.jpeg"><img src="/images/WordCloud.jpeg"></a>
+    <a href="/images/WordCloud.jpeg"><img src="/images/WordCloud.jpeg"></a>
+    <figcaption>Before and after images of python word cloud.</figcaption>
+</figure>
+
 
 Let's go through all the steps to get that fancy word cloud for tomorrow's presentation.
 
