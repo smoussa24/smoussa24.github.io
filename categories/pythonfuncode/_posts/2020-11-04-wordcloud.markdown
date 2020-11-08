@@ -144,7 +144,7 @@ _ = plt.show()
 <li>Voila! The larger the size of the word, the more it appears in the PDF document</li>
   
   <figure class="half">
-    <a href="/images/WordCloud.png"><img src="/images/WordCloud.jpeg"></a>
+    <a href="/images/WordCloud.png"><img src="/images/WordCloud.png"></a>
     <figcaption>Generated Word Cloud.</figcaption>
 </figure>
 </ol>
