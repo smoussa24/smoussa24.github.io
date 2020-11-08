@@ -13,7 +13,7 @@ Including visuals to emphasize an information and summarize a document is always
 Python makes **word cloud generation** a **simple and quick** process. 
 
 <figure class="full">
-    <a href="/images/Mask.jpg"><img src="/images/Mask.jpg" width="250"></a>
+    <a href="/images/Mask.jpg"><img src="/images/Mask.jpg" width="50"></a>
     <figcaption>Mask image used to generate the word cloud.</figcaption>
 </figure>
 
