@@ -144,10 +144,3 @@ _=plt.show()
 <li>Run the code</li>
 <li>Voila!</li>
 </ol>
-
-
-<figure class="half">
-    <a href="/images/WordCloud.jpeg"><img src="/images/WordCloud.jpeg"></a>
-    <a href="/images/WordCloud.jpeg"><img src="/images/WordCloud.jpeg"></a>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
