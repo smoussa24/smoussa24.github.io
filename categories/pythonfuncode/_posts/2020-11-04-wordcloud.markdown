@@ -6,9 +6,6 @@ categories:
   - images
   - data
   - pds
-header:
-  teaser: " /images/biogas.jpeg"
-
 ---
 
 Including visuals to emphasize an information and summarize a document is always nice, but not many of us can do this in a time efficient manner. 
