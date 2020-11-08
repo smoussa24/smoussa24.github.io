@@ -141,10 +141,10 @@ _ = plt.show()
 <ol start="9">
 <li>Save a mask image as a template for the wordcloud in the same folder as your code and pdf </li>
 <li>Run the code</li>
-<li>Voila!</li>
+<li>Voila! The larger the size of the word, the more it appears in the PDF document</li>
   
   <figure class="half">
-    <a href="/images/WordCloud2.jpeg"><img src="/images/WordCloud.jpeg"></a>
+    <a href="/images/WordCloud.png"><img src="/images/WordCloud.jpeg"></a>
     <figcaption>Generated Word Cloud.</figcaption>
 </figure>
 </ol>
