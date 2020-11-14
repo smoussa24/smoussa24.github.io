@@ -7,7 +7,7 @@ categories:
   - algorithm
   - structure
 ---
-To develop an algorithm to determine the minimum number of descriptors required to reverse engineer a chemical structure.
+**The Challenge:** To develop an algorithm to determine the minimum number of descriptors required to reverse engineer a chemical structure.
 
 # Our Approach 
 
