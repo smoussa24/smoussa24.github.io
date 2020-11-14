@@ -38,6 +38,9 @@ Using less than around 50 Mordred desciptors, the model poorly predicts all 17 c
 
 
 # Try it out!
+
+[Go to Github Repo for this project](https://github.com/sibamoussa/Pharmahacks_Chemical_Reconstruction)
+
 To run the model:
 1. Download the mordred compound sets (1 through 3) and place them in a data/ folder
 2. Open the src/config.py folder and change the data_path and results_path.
