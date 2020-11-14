@@ -7,10 +7,6 @@ categories:
   - algorithm
   - structure
 ---
-
-Winning Project of Pharmahacks (2019) sponsored by Boehringer Ingelheim, Novartis, Student Pharma, Invivo AI, and MILA.
-
-# The Challenge 
 To develop an algorithm to determine the minimum number of descriptors required to reverse engineer a chemical structure.
 
 # Our Approach 
@@ -44,3 +40,7 @@ To run the model:
 2. Open the src/config.py folder and change the data_path and results_path.
 3. Run the main function in src/thresholding.py.
 4. To visualize, run results_visualization.ipynb on jupyter notebook.
+
+# Notes
+* Winning Project of Pharmahacks (2019) sponsored by Boehringer Ingelheim, Novartis, Student Pharma, Invivo AI, and MILA.
+* This project included the exhaustive effort of five team members. Other descriptors were presented in the challenge but we chose to stick to mordred descriptors. 
