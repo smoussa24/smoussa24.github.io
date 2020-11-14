@@ -26,7 +26,7 @@ We used a multiple output linear regression model. The model trains using all of
 Using less than around 50 Mordred desciptors, the model poorly predicts all 17 core mordred  descriptors.
 
 <figure class="half">
-  <a href="/images/Mask.jpg"><img src="/images/pharmahacks.jepg"></a>
+  <a href="/images/pharmahacks.jpeg"><img src="/images/pharmahacks.jpeg"></a>
     <figcaption>Visualization of algorithm results.</figcaption>
 </figure>
 
