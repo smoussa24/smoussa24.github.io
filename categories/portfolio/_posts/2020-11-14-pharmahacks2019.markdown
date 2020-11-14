@@ -7,7 +7,6 @@ categories:
   - algorithm
   - structure
 ---
-# Pharmahacks_Chemical_Reconstruction
 
 Winning Project of Pharmahacks (2019) sponsored by Boehringer Ingelheim, Novartis, Student Pharma, Invivo AI, and MILA.
 
@@ -32,6 +31,10 @@ Using less than around 50 Mordred desciptors, the model poorly predicts all 17 c
 <p align="center">
 <img src="https://github.com/sibamoussa/Pharmahacks_Chemical_Reconstruction/blob/main/img/results.png" width="600"/>
 </p>
+<figure class="half">
+  <a href="/images/Mask.jpg"><img src="/images/pharmahacks.jepg"></a>
+    <figcaption>Visualization of algorithm results.</figcaption>
+</figure>
 
 
 # Try it out!
