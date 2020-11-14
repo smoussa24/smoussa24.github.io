@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Determine the minimum number of mordred descriptors required to reverse engineer a chemical structure"
-date:   2010-11-11
+title:  "Chemical Structure Reconstruction"
+date:   2019-11-11
 categories: 
   - chemistry
   - algorithm
