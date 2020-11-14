@@ -56,7 +56,7 @@ include:
 author:
   name     : "Siba Moussa"
   avatar   : "/Bio.jpg"
-  bio      : "PhD Student at McGill University"
+  bio      : "PhD Candidate at McGill University"
   location : "Montreal, Quebec"
   links:
     - label: "Twitter"
