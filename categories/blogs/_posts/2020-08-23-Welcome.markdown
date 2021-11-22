@@ -7,6 +7,8 @@ categories:
   - introduction
 ---
 
-Hi! I am Siba. Originally from Syria, I am now located in Montreal, Quebec. 
+Hi! I am Siba. Originally from Syria, I am now located in Philadelphia, USA. 
 
-I grew up in the Middle East (United Arab Emirates, Saudi Arabia and Qatar). I have a bachelor's degree in Chemical Engineering from Texas A&M University and I am finishing up my doctorate in Chemistry at McGill University. 
+I grew up in the Middle East (United Arab Emirates, Saudi Arabia and Qatar). I have a bachelor's degree in Chemical Engineering from Texas A&M University. More recently, I graduated with a PhD in Electrochemistry from McGill University.
+
+Hobbies include traveling, programming, hanging out with my family and trying out all the chocolate deserts possible. 
