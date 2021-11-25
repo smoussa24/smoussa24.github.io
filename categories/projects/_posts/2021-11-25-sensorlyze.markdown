@@ -17,11 +17,9 @@ For documentation, refer to [the manual](https://sibamoussa.github.io/sensorlyze
 Two options are currently available to run Sensorlyze: 
 
 1.  An exectuable file readily available [here](https://drive.google.com/drive/folders/1wTcSYdA--Ps0kcHzFx7qqUe1zSZY850c?usp=sharing).
-
 For the best user experience, download all the contents and store them in the same folder on your desktop. Run the sensorlyze.exe file when ready. 
 
-2.  A set of modifiable python scripts available [here](https://github.com/sibamoussa/Sensorlyze_Software).
-
+2. A set of modifiable python scripts available [here](https://github.com/sibamoussa/Sensorlyze_Software).
 To use the script-based option, download the main .py file as well as the remaining supporting files. When Sensorlyze first opens, you will be prompted to to start or exit the program. To begin data analysis, click on start and select the type of experiment assosciated with the appropriate data analysis.
 
 ## Built With
