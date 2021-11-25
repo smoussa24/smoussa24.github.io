@@ -11,6 +11,7 @@ classes: wide
 Projects
 ====================
 
+
 <style>
 
 .grid-container {
@@ -27,6 +28,14 @@ Projects
 }
 
 </style>
+<ul>
+  {% for post in site.categories.portfolio %}
+      <li>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </li>
+   {% endfor %}
+</ul>
 
 <p align="justify">
 
