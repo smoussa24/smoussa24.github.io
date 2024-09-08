@@ -56,8 +56,8 @@ include:
 author:
   name     : "Siba Moussa"
   avatar   : "/Bio.jpg"
-  bio      : "Freshly Minted Dr. @ McGill University"
-  location : "Philadelphia, Pennsylvania"
+  bio      : "PhD Graduate @ McGill University"
+  location : "Dubai, UAE"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
